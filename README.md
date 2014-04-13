@@ -12,4 +12,6 @@ Navigate to about:config in Firefox and search for `extensions.greasemonkey.file
 
 # Test .webm file
 
+Github does strange things to my test webm file (darkens and loading thingy, but lightens up every replay) so for now please user your own or this file for testing.
+
 [http://video.webmfiles.org/big-buck-bunny_trailer.webm](http://video.webmfiles.org/big-buck-bunny_trailer.webm)

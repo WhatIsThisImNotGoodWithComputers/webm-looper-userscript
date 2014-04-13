@@ -9,3 +9,7 @@ This requires you to have a userscript engine installed, one like GreaseMonkey, 
 
 If you wish to use this on local files (file:/// urls) you need to enable this in GreaseMonkey.
 Navigate to about:config in Firefox and search for `extensions.greasemonkey.fileIsGreaseable`. Flip this to true.
+
+# Test .webm file
+
+[http://video.webmfiles.org/big-buck-bunny_trailer.webm](http://video.webmfiles.org/big-buck-bunny_trailer.webm)
